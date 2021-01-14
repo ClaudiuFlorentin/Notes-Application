@@ -11,7 +11,6 @@ Caracteristici:
 - Minim versiune Android 4.4 KitKat
 
 <b>English:</b> This is a simple Android application for text notes.
-
 Features:
 - Add note
 - Delete note
