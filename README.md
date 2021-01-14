@@ -13,4 +13,4 @@ Features:
 - Add note
 - Delete note
 - Edit note
-- Preview notes
+- View notes
