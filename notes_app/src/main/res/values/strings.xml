@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplicatie Notite</string>
+    <string name="title_activity_detail">Detaliu</string>
+    <string name="long_title">Titlul este prea lung!</string>
+    <string name="addednote">Notita adaugata!</string>
+    <string name="savednote">Notita salvata!</string>
+    <string name="delete">Anulat</string>
+    <string name="empty_title">Campul titlu nu poate fi gol!</string>
+    <string name="deletednote">Notita stearsa!</string>
+</resources>
