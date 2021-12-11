@@ -1,4 +1,4 @@
-# Android_Notes_App
+# Notes Application - Android
 
 <h2>RELEASE: v1.0</h2>
 
@@ -19,5 +19,5 @@ Features:
 - Delete note
 - Edit note
 - View notes
-- The application uses SQLiteDatabase
+- The application use SQLiteDatabase
 - Minimum Android version 4.4 KitKat
