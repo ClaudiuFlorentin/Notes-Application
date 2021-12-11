@@ -1,4 +1,4 @@
-# Notes Application - Android
+# Notes Application - Android Mobile
 
 <h2>RELEASE: v1.0</h2>
 
